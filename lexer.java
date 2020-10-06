@@ -56,8 +56,7 @@ public class lexer {
                 i++;
             }
             else{
-                System.out.println("Unknown");
-                i++;
+                System.out.println("yes");break;
             }
         }
     }
