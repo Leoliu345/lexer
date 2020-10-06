@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f011fe8c-6992-4456-992e-16d5e2561cd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lexer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lexer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
