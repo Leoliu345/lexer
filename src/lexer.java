@@ -3,6 +3,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
+import static java.lang.System.exit;
+
 public class lexer {
     public static String tokenstr = "";
     public static char ch;
@@ -65,7 +67,7 @@ public class lexer {
                         i++;
                     } else {
                         System.out.println("Unknown");
-                        break;
+                        exit(1);
                     }
                 }
             }
