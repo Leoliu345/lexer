@@ -1,3 +1,4 @@
+/*
 public class lexer {
     public static String tokenstr = "";
     public static char ch;
@@ -61,3 +62,4 @@ public class lexer {
         }
     }
 }
+*/
