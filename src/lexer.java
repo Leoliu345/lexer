@@ -67,7 +67,7 @@ public class lexer {
                         i++;
                     } else {
                         System.out.println("Unknown");
-                        exit(1);
+                        exit(0);
                     }
                 }
             }
